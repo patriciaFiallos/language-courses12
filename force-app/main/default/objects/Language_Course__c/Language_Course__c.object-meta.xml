@@ -155,7 +155,7 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Language Course</label>
     <nameField>
-        <label>Language Course Name</label>
+        <label>Language Course</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
